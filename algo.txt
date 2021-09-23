@@ -2,8 +2,12 @@ Team With a Vowel
 Roster: Alif, Lior, Josiah
 9/23/21
 
-0. The base is how many times greater the place value gets from right to left. For example, in base-10, in the number 345, the right most digit (5) has place value 1, the digit immediately to its left (4) has place value 10, and the leftmost digit (3) has place value 100. It also states the amount of unique digits in the number system.
-1. Binary is a base-2 number system. It is useful for computing because computers are made up of switches that are either on or off (1 or 0). Since binary only uses 0 or 1, a computer can easily store and use the data by reading 1s and 0s as ons and offs.
+0. The base is how many times greater the place value gets from right to left. For example, in base-10, in the number 345, the right most digit (5) has place value 1,
+the digit immediately to its left (4) has place value 10, and the leftmost digit (3) has place value 100. It also states the amount of unique digits in the number 
+system.
+
+1. Binary is a base-2 number system. It is useful for computing because computers are made up of switches that are either on or off (1 or 0). Since binary only 
+uses 0 or 1, a computer can easily store and use the data by reading 1s and 0s as ons and offs.
 
 Binary to Decimal Algorithm
 
