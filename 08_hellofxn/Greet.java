@@ -6,4 +6,5 @@ public class Greet {
     System.out.println("Hi, Daniel. How are you?");
     System.out.println("Hello, Jeff. I haven't seen you in a while!");
     System.out.println("Greetings, Bob. Nice to meet you.");
+  }
 }
