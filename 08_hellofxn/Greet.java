@@ -6,9 +6,9 @@ HW#08: Refactor Freshie Zero
 */
 public class Greet {
   public static void main (String [] args) {
-    greet(Bob);
-    greet(Jeff);
-    greet(Daniel);
+    greet("Bob");
+    greet("Jeff");
+    greet("Daniel");
   }
   public static void greet (String name) {
     System.out.println("Greetings, " + name + "how do you do?");
