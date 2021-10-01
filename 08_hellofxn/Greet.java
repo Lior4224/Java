@@ -6,12 +6,13 @@ HW#08: Refactor Freshie Zero
 */
 public class Greet {
   public static void main (String [] args) {
-    greet();
+    greet(Bob);
+    greet(Jeff);
+    greet(Daniel);
   }
-  public static void greet () {
-    System.out.println("Hi, Daniel. How are you?");
-    System.out.println("Hello, Jeff. I haven't seen you in a while!");
-    System.out.println("Greetings, Bob. Nice to meet you.");
+  public static void greet (String name) {
+    System.out.println("Greetings, " + name + "how do you do?");
+
   }
 }
 /*
