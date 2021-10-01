@@ -11,7 +11,7 @@ public class Greet {
     greet("Daniel");
   }
   public static void greet (String name) {
-    System.out.println("Greetings, " + name + "how do you do?");
+    System.out.println("Greetings, " + name + ", how do you do?");
 
   }
 }
